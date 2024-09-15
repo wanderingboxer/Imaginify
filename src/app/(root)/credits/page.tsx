@@ -1,7 +1,7 @@
-import { SignedIn} from "@clerk/nextjs";
+import { SignedIn } from "@clerk/nextjs";
+import { auth } from "@clerk/nextjs/server";
 import Image from "next/image";
 import { redirect } from "next/navigation";
-import { auth } from "@clerk/nextjs/server";
 import Header from "@/components/shared/Header";
 import { Button } from "@/components/ui/button";
 import { plans } from "../../../../constants";
