@@ -1,44 +1,48 @@
-Imaginify is an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal.
+Imaginify an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. 
 
-⚙️ Tech Stack
-  Next.js
-  TypeScript
-  MongoDB
-  Clerk
-  Cloudinary
-  Stripe
-  Shadcn
-  TailwindCSS
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-🔋 Features
-👉 Authentication and Authorization: Secure user access with registration, login, and route protection.
+- Next.js
+- TypeScript
+- MongoDB
+- Clerk
+- Cloudinary
+- Stripe
+- Shadcn
+- TailwindCSS
 
-👉 Community Image Showcase: Explore user transformations with easy navigation using pagination
+## <a name="features">🔋 Features</a>
 
-👉 Advanced Image Search: Find images by content or objects present inside the image quickly and accurately
+👉 **Authentication and Authorization**: Secure user access with registration, login, and route protection.
 
-👉 Image Restoration: Revive old or damaged images effortlessly
+👉 **Community Image Showcase**: Explore user transformations with easy navigation using pagination
 
-👉 Image Recoloring: Customize images by replacing objects with desired colors easily
+👉 **Advanced Image Search**: Find images by content or objects present inside the image quickly and accurately
 
-👉 Image Generative Fill: Fill in missing areas of images seamlessly
+👉 **Image Restoration**: Revive old or damaged images effortlessly
 
-👉 Object Removal: Clean up images by removing unwanted objects with precision
+👉 **Image Recoloring**: Customize images by replacing objects with desired colors easily
 
-👉 Background Removal: Extract objects from backgrounds with ease
+👉 **Image Generative Fill**: Fill in missing areas of images seamlessly
 
-👉 Download Transformed Images: Save and share AI-transformed images conveniently
+👉 **Object Removal**: Clean up images by removing unwanted objects with precision
 
-👉 Transformed Image Details: View details of transformations for each image
+👉 **Background Removal**: Extract objects from backgrounds with ease
 
-👉 Transformation Management: Control over deletion and updates of transformations
+👉 **Download Transformed Images**: Save and share AI-transformed images conveniently
 
-👉 Credits System: Earn or purchase credits for image transformations
+👉 **Transformed Image Details**: View details of transformations for each image
 
-👉 Profile Page: Access transformed images and credit information personally
+👉 **Transformation Management**: Control over deletion and updates of transformations
 
-👉 Credits Purchase: Securely buy credits via Stripe for uninterrupted use
+👉 **Credits System**: Earn or purchase credits for image transformations
 
-👉 Responsive UI/UX: A seamless experience across devices with a user-friendly interface
+👉 **Profile Page**: Access transformed images and credit information personally
 
-and many more, including code architecture and reusability
+👉 **Credits Purchase**: Securely buy credits via Stripe for uninterrupted use
+
+👉 **Responsive UI/UX**: A seamless experience across devices with a user-friendly interface
+
+
+and many more, including code architecture and reusability 
+
