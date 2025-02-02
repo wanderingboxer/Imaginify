@@ -1,4 +1,6 @@
-Imaginify an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. 
+## <a name="introduction">🤖 Introduction</a>
+
+Imaginify is an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recolouring, object removal, generative filling, and background removal. 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -21,7 +23,7 @@ Imaginify an AI image SaaS platform that excels in image processing capabilities
 
 👉 **Image Restoration**: Revive old or damaged images effortlessly
 
-👉 **Image Recoloring**: Customize images by replacing objects with desired colors easily
+👉 **Image Recoloring**: Customize images by replacing objects with desired colours easily
 
 👉 **Image Generative Fill**: Fill in missing areas of images seamlessly
 
@@ -42,7 +44,4 @@ Imaginify an AI image SaaS platform that excels in image processing capabilities
 👉 **Credits Purchase**: Securely buy credits via Stripe for uninterrupted use
 
 👉 **Responsive UI/UX**: A seamless experience across devices with a user-friendly interface
-
-
 and many more, including code architecture and reusability 
-
